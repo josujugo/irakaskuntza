@@ -4,5 +4,4 @@
 
 (https://colab.research.google.com/github/blob/master/josujugo/irakaskuntza/azterketaKAI2019.ipynb)  [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/blob/master/josujugo/irakaskuntza/azterketaKAI2019.ipynb)
 
-
 blob/master
