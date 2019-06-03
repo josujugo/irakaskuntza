@@ -1,4 +1,14 @@
-# irakaskuntza
+# KAI irakasgaiaren 2019ko maiatzaren azterketa
+
+Hiru problema ebatzita daude, kasu honetan Python erabiliz, baina azalpenak egokiak dira Scilab programa erabilita ere
+
+- Lehehngo problema azterketaKAI2019.ipynb
+- Bigarren problema azterketaKAI2019_2.ipynb
+- Hirugarren problema azterketaKAI2019_3.ipynb
+
+
+---
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josujugo/irakaskuntza/master?filepath=azterketaKAI2019.ipynb)https://github.com/josujugo/irakaskuntza
 
