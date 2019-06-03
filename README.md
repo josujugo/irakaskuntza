@@ -1,8 +1,8 @@
 # KAI irakasgaiaren 2019ko maiatzaren azterketa
 
-Hiru problema ebatzita daude, kasu honetan Python erabiliz, baina azalpenak egokiak dira Scilab programa erabilita ere
+2019ko maiatzean egindako azterketaren hiru problema ebatzita daude, kasu honetan Python erabiliz, baina azalpenak egokiak dira Scilab programa erabilita ere
 
-- Lehehngo problema azterketaKAI2019.ipynb
+- Lehenengo problema azterketaKAI2019.ipynb
 - Bigarren problema azterketaKAI2019_2.ipynb
 - Hirugarren problema azterketaKAI2019_3.ipynb
 
